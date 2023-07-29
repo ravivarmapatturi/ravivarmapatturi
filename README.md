@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ravivarmapatturi
-- 👀 I’m interested in Artificial Intelligence, Coding
+- 👀 I’m interested in Artificial Intelligence, Data Science , Coding
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate with people who has interest in Artificial Intelligence , Deep Learning , Machine Learning 
 - 📫 How to reach me ravivarmapatturi@gmail.com
