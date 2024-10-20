@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ravivarmapatturi
-- 👀 I’m interested in Artificial Intelligence, Data Science , and Software Devolpement
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate with people who has interest in Artificial Intelligence , Deep Learning , Machine Learning 
-- 📫 How to reach me ravivarmapatturi@gmail.com
+### 👋 Hi, I’m Ravi Varma Patturi
 
-<!---
-ravivarmapatturi/ravivarmapatturi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 **Exploring the world of AI, Data Science, and Software Development.**  
+🌱 Currently diving deep into **Deep Learning** with a focus on **Natural Language Processing (NLP)** and **Generative AI**.  
+💡 Passionate about leveraging AI for real-world applications and creative problem-solving.
+
+🤝 **Open to collaborations** in **AI, Deep Learning, Machine Learning**, and **NLP**.  
+Let's build the future together by pushing the boundaries of **Generative AI** and **Language Technologies**!
+
+📫 Reach me at: ravivarmapatturi@gmail.com
+
+✨ Let's connect and create!
