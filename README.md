@@ -8,7 +8,7 @@
 
 🤝 **Open to connect and collaborate** on **AI-driven projects**, bringing innovation and value to real-world problems.
 
-📫 **Reach me**: [Email](mailto:patturiravivarma@gmail.com) | [YouTube](https://www.youtube.com/@neuralmastery)
+📫 **Reach me**: [Email](mailto:patturiravivarma@gmail.com) | [YouTube](https://www.youtube.com/@neuralmastery) | [LinkedIn](https://www.linkedin.com/in/ravivarma-patturi/)
 
 ---
 
