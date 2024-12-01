@@ -1,41 +1,55 @@
 # Hi there 👋, I’m **Ravi Varma Patturi**
 
-🔭 **Exploring AI, Data Science, and Software Development**  
-🌱 Passionate about **Deep Learning**, **NLP**, and **Generative AI**  
+🔭 **AI Research Engineer at Boltzmann Labs** with **2 years of experience** in **AI, Deep Learning, and NLP**.  
+🌱 Specializing in **Generative AI** and **Language Technologies**, I leverage cutting-edge algorithms to build impactful solutions.
 
 🎥 **Creator at [Neural Mastery](https://www.youtube.com/@neuralmastery)**  
-📖 Sharing insights on AI, ML, and Data Science  
+📖 *A YouTube channel where I share insights on AI, ML, Deep Learning, and Generative AI in Telugu.*
 
-📫 **Connect with me**: [Email](mailto:patturiravivarma@gmail.com) | [YouTube](https://www.youtube.com/@neuralmastery)
+🤝 **Open to connect and collaborate** on **AI-driven projects**, bringing innovation and value to real-world problems.
+
+📫 **Reach me**: [Email](mailto:patturiravivarma@gmail.com) | [YouTube](https://www.youtube.com/@neuralmastery)
+
+---
+
+## 👨‍💻 Professional Experience
+### AI Research Engineer  
+**Boltzmann Labs** (Current Role)  
+- Developing and deploying **state-of-the-art deep learning models** for real-world applications.  
+- Expertise in **Transformer-based architectures** and **generative models** for NLP tasks.  
+- Collaborating with cross-functional teams to design scalable AI solutions.  
 
 ---
 
 ## 🔑 Key Projects
-- **Generative AI Models**  
-  *Exploring advanced text-to-image generation and transformer-based models.*  
+- **Generative AI for Text and Image**  
+  *Developed transformer-based models for advanced generative tasks, including custom text-to-image pipelines.*  
   [🔗 Repository](#)  
 
-- **NLP Applications**  
-  *Developed custom language models for sentiment analysis and summarization.*  
+- **Custom NLP Pipelines**  
+  *Implemented sentiment analysis, summarization, and entity recognition using Hugging Face Transformers.*  
   [🔗 Repository](#)  
 
-- **AI-Powered Tools**  
-  *Automation and data-driven decision-making tools for real-world impact.*  
+- **AI-Powered Automation**  
+  *Designed tools for data-driven decision-making and automated workflows.*  
   [🔗 Repository](#)  
 
 ---
 
 ## 🛠️ Skills
 - **Programming Languages**: Python, R  
-- **Libraries & Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers  
-- **Tools**: Docker, Git, Jupyter Notebooks  
-- **Concepts**: Machine Learning, Feature Engineering, Hyperparameter Tuning  
+- **Deep Learning Frameworks**: PyTorch, TensorFlow  
+- **NLP Tools**: Hugging Face Transformers, SpaCy  
+- **Machine Learning**: Scikit-learn, Feature Engineering, Hyperparameter Tuning  
+- **Tools & Platforms**: Docker, Git, Jupyter Notebooks, AWS, GCP  
+- **Core Competencies**: Generative AI, Transformer Models, Model Optimization  
 
 ---
 
-## 🌐 My Philosophy
-*“AI is not just technology; it’s a way to amplify human potential.”*  
+## 🌐 My Vision
+I believe in harnessing the power of **AI and Generative Technologies** to drive **business innovation** and **enhance human potential**. Let’s shape the future together!
 
 ---
 
-🤝 **Let’s collaborate and shape the future of AI together! 🚀**
+📩 **Let’s Collaborate!**  
+I’m open to discussions on **AI research**, **open-source contributions**, and **collaborative projects** in **Deep Learning, NLP, and Generative AI**. Reach out today! 🚀
