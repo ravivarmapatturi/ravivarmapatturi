@@ -1,32 +1,41 @@
-Hi there 👋, I’m Ravi Varma Patturi
-🔭 Exploring AI, Data Science, and Software Development
-🌱 Passionate about Deep Learning, NLP, and Generative AI
+# Hi there 👋, I’m **Ravi Varma Patturi**
 
-🎥 Creator at Neural Mastery
-📖 Sharing insights on AI, ML, and Data Science
+🔭 **Exploring AI, Data Science, and Software Development**  
+🌱 Passionate about **Deep Learning**, **NLP**, and **Generative AI**  
 
-📫 Connect with me: Email | YouTube
+🎥 **Creator at [Neural Mastery](https://www.youtube.com/@neuralmastery)**  
+📖 Sharing insights on AI, ML, and Data Science  
 
-🔑 Key Projects
-Generative AI Models
-Exploring advanced text-to-image generation and transformer-based models.
-🔗 Repository
+📫 **Connect with me**: [Email](mailto:patturiravivarma@gmail.com) | [YouTube](https://www.youtube.com/@neuralmastery)
 
-NLP Applications
-Developed custom language models for sentiment analysis and summarization.
-🔗 Repository
+---
 
-AI-Powered Tools
-Automation and data-driven decision-making tools for real-world impact.
-🔗 Repository
+## 🔑 Key Projects
+- **Generative AI Models**  
+  *Exploring advanced text-to-image generation and transformer-based models.*  
+  [🔗 Repository](#)  
 
-🛠️ Skills
-Programming Languages: Python, R
-Libraries & Frameworks: PyTorch, TensorFlow, Hugging Face Transformers
-Tools: Docker, Git, Jupyter Notebooks
-Concepts: Machine Learning, Feature Engineering, Hyperparameter Tuning
-🌐 My Philosophy
-“AI is not just technology; it’s a way to amplify human potential.”
+- **NLP Applications**  
+  *Developed custom language models for sentiment analysis and summarization.*  
+  [🔗 Repository](#)  
 
-Let's collaborate and shape the future of AI! 🚀
+- **AI-Powered Tools**  
+  *Automation and data-driven decision-making tools for real-world impact.*  
+  [🔗 Repository](#)  
 
+---
+
+## 🛠️ Skills
+- **Programming Languages**: Python, R  
+- **Libraries & Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers  
+- **Tools**: Docker, Git, Jupyter Notebooks  
+- **Concepts**: Machine Learning, Feature Engineering, Hyperparameter Tuning  
+
+---
+
+## 🌐 My Philosophy
+*“AI is not just technology; it’s a way to amplify human potential.”*  
+
+---
+
+🤝 **Let’s collaborate and shape the future of AI together! 🚀**
