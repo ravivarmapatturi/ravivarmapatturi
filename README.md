@@ -19,22 +19,7 @@
 - Expertise in **Transformer-based architectures** and **generative models** for NLP tasks.  
 - Collaborating with cross-functional teams to design scalable AI solutions.  
 
----
 
-## 🔑 Key Projects
-- **Generative AI for Text and Image**  
-  *Developed transformer-based models for advanced generative tasks, including custom text-to-image pipelines.*  
-  [🔗 Repository](#)  
-
-- **Custom NLP Pipelines**  
-  *Implemented sentiment analysis, summarization, and entity recognition using Hugging Face Transformers.*  
-  [🔗 Repository](#)  
-
-- **AI-Powered Automation**  
-  *Designed tools for data-driven decision-making and automated workflows.*  
-  [🔗 Repository](#)  
-
----
 
 ## 🛠️ Skills
 - **Programming Languages**: Python, R  
