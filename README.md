@@ -3,12 +3,12 @@
 🔭 **AI Research Engineer at Boltzmann Labs** with **2 years of experience** in **AI, Deep Learning, and NLP**.  
 🌱 Specializing in **Generative AI** and **Language Technologies**, I leverage cutting-edge algorithms to build impactful solutions.
 
-🎥 **Creator at [Neural Mastery](https://www.youtube.com/@neuralmastery)**  
+
 📖 *A YouTube channel where I share insights on AI, ML, Deep Learning, and Generative AI in Telugu.*
 
 🤝 **Open to connect and collaborate** on **AI-driven projects**, bringing innovation and value to real-world problems.
 
-📫 **Reach me**: [Email](mailto:patturiravivarma@gmail.com) | [YouTube](https://www.youtube.com/@neuralmastery) | [LinkedIn](https://www.linkedin.com/in/ravivarma-patturi/)
+📫 **Reach me**: [Email](mailto:patturiravivarma@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/ravivarma-patturi/)
 
 ---
 
