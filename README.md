@@ -1,10 +1,8 @@
 # Hi there 👋, I’m **Ravi Varma Patturi**
 
-🔭 **AI Research Engineer at Boltzmann Labs** with **2 years of experience** in **AI, Deep Learning, and NLP**.  
-🌱 Specializing in **Generative AI** and **Language Technologies**, I leverage cutting-edge algorithms to build impactful solutions.
+🔭 **AI Research Engineer at Boltzmann Labs** with **2 years of experience** in **, DATA SCIENCE , AI, Deep Learning, NLP AND GEN AI **.  
+🌱 Specializing in **Generative AI** and **DATA SCIENCE**, I leverage cutting-edge algorithms to build impactful solutions.
 
-
-📖 *A YouTube channel where I share insights on AI, ML, Deep Learning, and Generative AI in Telugu.*
 
 🤝 **Open to connect and collaborate** on **AI-driven projects**, bringing innovation and value to real-world problems.
 
@@ -16,7 +14,7 @@
 ### AI Research Engineer  
 **Boltzmann Labs** (Current Role)  
 - Developing and deploying **state-of-the-art deep learning models** for real-world applications.  
-- Expertise in **Transformer-based architectures** and **generative models** for NLP tasks.  
+- Expertise in **deep learning** and **generative models** for NLP tasks.  
 - Collaborating with cross-functional teams to design scalable AI solutions.  
 
 
