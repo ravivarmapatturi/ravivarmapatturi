@@ -6,7 +6,7 @@
 
 🤝 **Open to connect and collaborate** on **AI-driven projects**, bringing innovation and value to real-world problems.
 
-📫 **Reach me**: [Email](mailto:patturiravivarma@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/ravivarma-patturi/)
+📫 **Reach me**: [Email](mailto:patturiravivarma@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/ravivarma-patturi/) | [Medium](https://medium.com/@ravivarmapatturi)
 
 ---
 
