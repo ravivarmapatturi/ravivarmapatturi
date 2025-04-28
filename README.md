@@ -12,11 +12,17 @@
 
 ## 👨‍💻 Professional Experience
 ### 🔹 AI Research Engineer at Boltzmann Labs (2023 - Present)
-- Developed and deployed **state-of-the-art deep learning models** (LSTM, TCN, GRU, RNN) for **Battery Management Systems**.
-- Built **System Verilog Assertion (SVA) Generation Framework** using **LLMs** like LLaMA and Qwen.
-- Created a **Regulatory QA RAG Chatbot** using GPT-4o with advanced chunking, parsing, and prompting strategies.
-- Implemented **molecular property prediction** pipelines improving prediction accuracy by 15%.
-- Dockerized and accelerated **Molecular Dynamics Simulation Workflows** using GROMACS & OpenMM.
+-Developed and deployed state-of-the-art deep learning models  for Battery Management Systems.
+
+-Automated System Verilog Assertion (SVA) Generation using LLMs like LLaMA and Qwen.
+
+-Created a Regulatory QA RAG Chatbot using GPT-4o with advanced chunking, parsing, and prompting strategies.
+
+-Implemented molecular property prediction pipelines, improving prediction accuracy by 15%.
+
+-Dockerized and accelerated Molecular Dynamics Simulation Workflows using GROMACS & OpenMM.
+
+
 
 ---
 
