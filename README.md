@@ -6,6 +6,7 @@
 
 Building production-grade AI systems for U.S. healthcare payers, providers, and product-focused AI companies.
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://ravivarmapatturi.github.io/)
 [![Email](https://img.shields.io/badge/-patturiravivarma%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patturiravivarma@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-ravivarma--patturi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravivarma-patturi/)
 [![Medium](https://img.shields.io/badge/-%40ravivarmapatturi-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ravivarmapatturi)
