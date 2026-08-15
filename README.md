@@ -1,123 +1,100 @@
-<h1 align="center">Hi 👋, I'm RAVIVARMA PATTURI</h1>
-<h3 align="center">AI Research Engineer | Deep Learning | NLP | GenAI Applications</h3>
+<div align="center">
 
-<p align="center">
- 🔭 AI Research Engineer at Boltzmann Labs <br>
- 🌱 Specializing in Deep Learning, NLP, Generative AI, and Data Science <br>
- 🤝 Open to collaborate on AI-driven projects to solve real-world problems <br>
- 📫 Reach me: <a href="mailto:patturiravivarma@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/ravivarma-patturi/">LinkedIn</a> | <a href="https://medium.com/@ravivarmapatturi">Medium</a> 
+# Ravivarma Patturi
+
+**AI/ML Engineer · 4+ Years · Generative AI · Agentic AI · LLMs · RAG · Multi-Agent Systems**
+
+Building production-grade AI systems for U.S. healthcare payers, providers, and product-focused AI companies.
+
+[![Email](https://img.shields.io/badge/-patturiravivarma%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:patturiravivarma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-ravivarma--patturi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravivarma-patturi/)
+[![Medium](https://img.shields.io/badge/-%40ravivarmapatturi-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ravivarmapatturi)
+[![YouTube](https://img.shields.io/badge/-NeuralMastery-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@neuralmastery)
+
+</div>
+
+---
+
+## About
+
+AI Engineer with 4+ years of experience designing and deploying production-grade Generative AI, Agentic AI, and NLP systems — from LLM-driven multi-agent platforms and RAG pipelines to deep learning models for regulated, high-stakes domains.
+
+- 🔭 Currently **AI Engineer at [Autonomize AI](https://www.autonomize.ai/)**, building **Genesis AI Studio**, a platform for building and deploying production-grade AI agents
+- 🩺 Working across healthcare claims adjudication, benefits digitization, and clinical semantic search for U.S. healthcare payers and providers
+- 🧠 Previously **AI Research Engineer at Boltzmann Labs**, working on battery management systems, LLM-driven RTL verification, and molecular property prediction
+- 🌱 Actively exploring multi-agent orchestration, reinforcement learning (policy gradients, actor-critic, DQN), and recent AI/ML research
+- 📫 Reach me at **patturiravivarma@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/ravivarma-patturi/)
+
+---
+
+## Experience
+
+**AI Engineer** — Autonomize AI *(Feb 2026 – Present)*
+- Designed and implemented a **Recursive Language Model (RLM)** architecture for hierarchical reasoning via Master–Sub LLM collaboration, integrated alongside ReAct and Plan-and-Execute workflows
+- Built a **multi-agent SOP reasoner** for automated healthcare claims adjudication, converting SOPs into structured decision graphs and cutting adjudication cost by **80%**
+- Delivered a benefits-digitization proof of concept for a U.S. healthcare organization in **14 days**, converted into a full-scale production project
+- Indexed 70,000+ healthcare concepts with Azure AI Search and Cross-Encoder reranking to automate structured-expression generation for campaign creation
+- Built a **ModernBERT** healthcare inquiry classifier, addressing class imbalance via synthetic data generation
+
+**AI Research Engineer** — Boltzmann Labs Pvt Ltd *(Jul 2023 – Jan 2026)*
+- Built RNN/LSTM/GRU models for Battery Management Systems achieving 99% SOC-prediction reliability; applied quantization to cut model size 50% and latency 2× for edge deployment
+- Developed an LLM-powered agentic workflow to generate RTL verification test plans from IC specs, integrated into Cadence Xcelium UVM flows
+- Built domain-specific RAG (LangChain + Mistral + ChromaDB) and fine-tuned LLaMA-3.2-1B with LoRA for crystal-structure generation in battery materials research
+- Engineered a GPU-accelerated, Dockerized GROMACS/OpenMM pipeline for molecular dynamics, deployed as a FastAPI microservice on AWS EKS
+
+---
+
+## Skills
+
+**Languages & Data** `Python` `C` `C++` `MySQL`
+
+**Generative AI** `LangChain` `LlamaIndex` `LangGraph` `RAG` `Agents` `Prompt Engineering` `Fine-tuning` `Temporal`
+
+**ML / DL** `PyTorch` `TensorFlow` `Hugging Face Transformers` `NLTK` `spaCy` `Scikit-learn`
+
+**Deployment & Infra** `Docker` `Kubernetes` `FastAPI` `AWS` `Streamlit` `Git`
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32" alt="pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32" alt="tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="32" alt="kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="32" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="32" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="32" alt="huggingface" />
 </p>
 
 ---
 
-## 👨‍💻 Professional Experience
-### 🔹 AI Research Engineer at Boltzmann Labs (2023 - Present)
-- Developed and deployed state-of-the-art deep learning models for Battery Management Systems.
-- Automated System Verilog Assertion (SVA) generation using LLMs like LLaMA and Qwen.
-- Created a Regulatory QA RAG Chatbot using GPT-4o with advanced chunking, parsing, and prompting strategies.
-- Implemented molecular property prediction pipelines, improving prediction accuracy by 15%.
-- Dockerized and accelerated Molecular Dynamics Simulation workflows using GROMACS and OpenMM.
+## Featured Projects
 
-
-
----
-
-## 🛠️ Skills
-
-- **Programming Languages**: Python, C, C++
-- **Deep Learning Frameworks**: PyTorch, TensorFlow
-- **NLP Tools**: Hugging Face Transformers, SpaCy, NLTK
-- **Machine Learning**: Scikit-learn, Feature Engineering, Hyperparameter Tuning
-- **Deployment and DevOps**: Docker, FastAPI, AWS, Git, Streamlit
-- **Databases**: MySQL
-- **Generative AI**: LangChain, LlamaIndex, Prompt Engineering, RAG, LangGraph
-- **Visualization**: Matplotlib, Seaborn
+| Project | Description |
+|---|---|
+| **[Regulatory QA RAG Chatbot](https://github.com/ravivarmapatturi/qa_rag_application)** | GPT-4o-powered RAG chatbot with hybrid retrieval, query rewriting, and memory-augmented context; containerized and deployed on Kubernetes. [Live demo](https://appragapplication-fiz4xgopnpw7oyvuyvper2.streamlit.app/) |
+| **[AI-Powered Financial Reporting Agent](https://github.com/ravivarmapatturi/Finance_Agent)** | LangGraph/LangChain agent that analyzes financial data, benchmarks competitors via the Tavily Search API, and generates narrative performance reports |
+| **[Traffic Volume Prediction](https://github.com/ravivarmapatturi/Traffic_Volume_Prediction_Hackathon)** | XGBoost forecasting model with weather/time/holiday feature engineering — Top 10, MachineHack Great Indian Hackathon 2024 |
+| **[Emotion Classification (GoEmotions)](https://github.com/ravivarmapatturi/sentiment_classification_using_nlp)** | Multi-class emotion classifier grouping 27 GoEmotions labels into 5 categories using TF-IDF and classical/neural models |
 
 ---
 
-## 🌟 Languages and Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
-
----
-
-## 🚀 Projects
-- [QA RAG Chatbot (Streamlit App)](https://appragapplication-fiz4xgopnpw7oyvuyvper2.streamlit.app/)
-- [QA RAG GitHub Repository](https://github.com/ravivarmapatturi/qa_rag_application)
-- [Traffic Volume Prediction Model (Hackathon Top 10)](https://machinehack.com/hackathons/the_great_indian_hiring_hackathon_2024/leaderboard)
-
----
-
-## 🌐 My Vision
-I believe in **harnessing the power of AI and Generative Technologies** to drive **business innovation** and **enhance human potential**.  
-**Let's shape the future together!**
-
----
-###
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravivarmapatturi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravivarmapatturi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ravivarmapatturi&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravivarmapatturi&layout=compact&langs_count=6&theme=default&hide_border=true" height="165" alt="languages graph" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/8d/4d/4f/8d4d4f6e51f0a5eb16e127ddee6b5f7c.gif" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="huggingface logo" />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:patturiravivarma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/ravivarma-patturi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://medium.com/@ravivarmapatturi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
-  </a>
-  <a href="https://github.com/ravivarmapatturi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
 ---
 
-## 📫 Let's Collaborate
-If you're passionate about **Deep Learning, NLP, Generative AI, or Real-world AI Applications**, feel free to **reach out** and **let's innovate together**! 🚀
+## Elsewhere
+
+- 🧮 [Deep-ML](https://www.deep-ml.com/profile/ueijNhzY3qPWAfsAXPmXvt6tXDp1) — Top 100
+- 🏆 [HackerRank](https://www.hackerrank.com/profile/ravivarmapatturi)
+- 💻 [LeetCode](https://leetcode.com/u/ravivarmapatturi/)
+- 🎥 [NeuralMastery on YouTube](https://www.youtube.com/@neuralmastery)
+
+<div align="center">
+<sub>Open to collaborating on Generative AI, Agentic AI, and applied ML projects.</sub>
+</div>
