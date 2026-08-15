@@ -68,6 +68,12 @@ AI Engineer with 4+ years of experience designing and deploying production-grade
 
 ---
 
+## Platform
+
+**[NeuralMastery](https://ravivarmapatturi.github.io/NeuralMastery/)** — an AI learning platform I'm building, taking learners from mathematical foundations (linear algebra, calculus, probability) through deep learning and agents, into production-ready skills: ML system design, SQL/vector/graph databases, agent protocols (MCP, A2A), and the frameworks used to ship AI in production.
+
+---
+
 ## Featured Projects
 
 | Project | Description |
@@ -82,8 +88,8 @@ AI Engineer with 4+ years of experience designing and deploying production-grade
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravivarmapatturi&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravivarmapatturi&layout=compact&langs_count=6&theme=default&hide_border=true" height="165" alt="languages graph" />
+  <img src="./profile/stats.svg" height="165" alt="stats graph" />
+  <img src="./profile/top-langs.svg" height="165" alt="languages graph" />
 </div>
 
 ---
