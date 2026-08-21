@@ -81,7 +81,7 @@ AI Engineer with 4+ years of experience designing and deploying production-grade
 |---|---|
 | **[Regulatory QA RAG Chatbot](https://github.com/ravivarmapatturi/qa_rag_application)** | GPT-4o-powered RAG chatbot with hybrid retrieval, query rewriting, and memory-augmented context; containerized and deployed on Kubernetes. [Live demo](https://appragapplication-fiz4xgopnpw7oyvuyvper2.streamlit.app/) |
 | **[AI-Powered Financial Reporting Agent](https://github.com/ravivarmapatturi/Finance_Agent)** | LangGraph/LangChain agent that analyzes financial data, benchmarks competitors via the Tavily Search API, and generates narrative performance reports |
-| **[Traffic Volume Prediction](https://github.com/ravivarmapatturi/Traffic_Volume_Prediction_Hackathon)** | XGBoost forecasting model with weather/time/holiday feature engineering — Top 10, MachineHack Great Indian Hackathon 2024 |
+| **[Traffic Volume Prediction](https://github.com/ravivarmapatturi/Traffic_Volume_Prediction_Hackathon)** | CatBoost forecasting model (XGBoost-driven RFECV feature selection) on cyclical time + weather features — Top 10, MachineHack Great Indian Hackathon 2024 |
 | **[Emotion Classification (GoEmotions)](https://github.com/ravivarmapatturi/sentiment_classification_using_nlp)** | Multi-class emotion classifier grouping 27 GoEmotions labels into 5 categories using TF-IDF and classical/neural models |
 
 ---
