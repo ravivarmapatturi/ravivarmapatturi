@@ -23,6 +23,8 @@ AI Engineer with 4+ years of experience designing and deploying production-grade
 - 🔭 Currently **AI Engineer at [Autonomize AI](https://www.autonomize.ai/)**, building **Genesis AI Studio**, a platform for building and deploying production-grade AI agents
 - 🩺 Working across healthcare claims adjudication, benefits digitization, and clinical semantic search for U.S. healthcare payers and providers
 - 🧠 Previously **AI Research Engineer at Boltzmann Labs**, working on battery management systems, LLM-driven RTL verification, and molecular property prediction
+- 🛰️ Out of personal interest, I work on on-device AI: [VaayuEdge](https://inferedgeai.com/vaayuedge/) (English→Telugu speech in the browser) and [research checkpoints on Hugging Face](https://huggingface.co/ravivarmapatturi)
+- 📚 I also build [Neural Mastery](https://neuralmasteryai.com), a free interactive AI engineering platform
 - 🌱 Actively exploring multi-agent orchestration, reinforcement learning (policy gradients, actor-critic, DQN), and recent AI/ML research
 - 📫 Reach me at **patturiravivarma@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/ravivarma-patturi/)
 
