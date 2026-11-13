@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">RAVIVARMA&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 1610, Total PRs: 9, Total Issues: 2, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 1622, Total PRs: 9, Total Issues: 2, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 194.70940478920693;
+        stroke-dashoffset: 194.69361714077425;
       }
     }
   
